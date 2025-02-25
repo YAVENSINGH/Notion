@@ -13,4 +13,4 @@ A basic Flutter application demonstrating user authentication , tab navigation a
 ```bash
 git clone https://github.com/your-username/your-repo.git
 
-2 Add you own api in lin/firebase_options.dart
+2 Add you own api in lib/firebase_options.dart
