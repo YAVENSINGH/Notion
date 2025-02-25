@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAVqauRUh_9c12Sy33CcAXylcZZ9j9iCrs',
+    apiKey:  ['Your own Api key'],
     appId: '1:644978033884:android:7b6aad141315c5db28a019',
     messagingSenderId: '644978033884',
     projectId: 'notion-ec43a',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB2NRuelNfVgG6WZKiGIo7egrDFe-m1NX4',
+    apiKey:  ['Your own Api key'],
     appId: '1:644978033884:ios:437f1926b4379aaf28a019',
     messagingSenderId: '644978033884',
     projectId: 'notion-ec43a',
